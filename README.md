@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imma76)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imma76&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Imma76)](https://git.io/streak-stats)
