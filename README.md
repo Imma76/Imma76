@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-**Imma76/Imma76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working with flutter and node js...
 - 👯 I’m looking to collaborate on flutter and node js projects ...
