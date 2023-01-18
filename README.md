@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Imma76/Imma76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:mobile +2348161759386,email: emmanuelugwueze6@gmail.com ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imma76)](https://github.com/anuraghazra/github-readme-stats)
