@@ -14,6 +14,6 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imma76)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imma76&show_icons=true&theme=dracula) -->
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imma76&theme=dark)](https://git.io/streak-stats)
- -->
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imma76&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imma76&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
