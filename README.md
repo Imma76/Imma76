@@ -10,6 +10,7 @@ I'm currently working on flutter & nodejs<br>I'm looking to collaborate on mobil
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Imma76&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Imma76&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imma76&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
